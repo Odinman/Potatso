@@ -335,6 +335,7 @@
 /* Begin PBXFileReference section */
 		075A0EDC2AD266124CA24078 /* Pods_PacketProcessor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PacketProcessor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		09342A48F0EEF2F3F6AD64A8 /* Pods-PacketProcessor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketProcessor.debug.xcconfig"; path = "Target Support Files/Pods-PacketProcessor/Pods-PacketProcessor.debug.xcconfig"; sourceTree = "<group>"; };
+		12E0FBA5CF6FB7A6AAB293D2 /* Pods-PotatsoModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoModel.release.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoModel/Pods-PotatsoModel.release.xcconfig"; sourceTree = "<group>"; };
 		1ECA215E1E05E8C700B32187 /* Potatso.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Potatso.entitlements; sourceTree = "<group>"; };
 		1ECA21631E05EA6D00B32187 /* PacketTunnel.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PacketTunnel.entitlements; sourceTree = "<group>"; };
 		1ECA21641E05EADD00B32187 /* TodayWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TodayWidget.entitlements; sourceTree = "<group>"; };
@@ -345,12 +346,18 @@
 		1EEBB8761FFFD4B500EB33C3 /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = System/Library/Frameworks/NetworkExtension.framework; sourceTree = SDKROOT; };
 		1EF602941F113A660005E0C7 /* GeoLite2-Country.mmdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GeoLite2-Country.mmdb"; sourceTree = "<group>"; };
 		3C9A6823014EF76FB5F7725A /* Pods-PotatsoLibrary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibrary.debug.xcconfig"; path = "Target Support Files/Pods-PotatsoLibrary/Pods-PotatsoLibrary.debug.xcconfig"; sourceTree = "<group>"; };
+		49B16BEBF25009AAD0B10AB9 /* Pods-PotatsoModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoModel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoModel/Pods-PotatsoModel.debug.xcconfig"; sourceTree = "<group>"; };
 		4A646ACF237B032E4A2016FC /* Pods_PotatsoLibraryTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PotatsoLibraryTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F3C1E3D4BB688B4C2CDC2CB /* Pods-PacketProcessor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketProcessor.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PacketProcessor/Pods-PacketProcessor.debug.xcconfig"; sourceTree = "<group>"; };
 		4FD84123306F4F6D572556EB /* Pods-PacketTunnel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketTunnel.release.xcconfig"; path = "Target Support Files/Pods-PacketTunnel/Pods-PacketTunnel.release.xcconfig"; sourceTree = "<group>"; };
 		570BF2420B2759837DB12503 /* Pods-PotatsoModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoModel.release.xcconfig"; path = "Target Support Files/Pods-PotatsoModel/Pods-PotatsoModel.release.xcconfig"; sourceTree = "<group>"; };
 		580482A21595A1FD951E8265 /* Pods-PotatsoModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoModel.debug.xcconfig"; path = "Target Support Files/Pods-PotatsoModel/Pods-PotatsoModel.debug.xcconfig"; sourceTree = "<group>"; };
+		6B017F71D0C7FA3768B51ECD /* Pods-Potatso.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Potatso.release.xcconfig"; path = "Pods/Target Support Files/Pods-Potatso/Pods-Potatso.release.xcconfig"; sourceTree = "<group>"; };
 		718C633B665D19AFC7FD3401 /* Pods-PacketProcessor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketProcessor.release.xcconfig"; path = "Target Support Files/Pods-PacketProcessor/Pods-PacketProcessor.release.xcconfig"; sourceTree = "<group>"; };
+		75F006B56F76B73608CCE2EF /* Pods-TodayWidget.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TodayWidget.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TodayWidget/Pods-TodayWidget.debug.xcconfig"; sourceTree = "<group>"; };
+		7B3E4E3F49261810369165AA /* Pods-PotatsoLibraryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibraryTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests.debug.xcconfig"; sourceTree = "<group>"; };
 		946F065271ABB55B741DA5E5 /* Pods_TodayWidget.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TodayWidget.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		999E680EA2624D3A25669DB9 /* Pods-PacketProcessor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketProcessor.release.xcconfig"; path = "Pods/Target Support Files/Pods-PacketProcessor/Pods-PacketProcessor.release.xcconfig"; sourceTree = "<group>"; };
 		9B07D6B01CB7A6A900182C1B /* PotatsoLibraryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PotatsoLibraryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B07D6B21CB7A6A900182C1B /* PotatsoLibraryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PotatsoLibraryTests.swift; sourceTree = "<group>"; };
 		9B07D6B41CB7A6A900182C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -851,6 +858,8 @@
 		9BF3034A1CCA1B060096588E /* BaseEmptyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseEmptyView.swift; sourceTree = "<group>"; };
 		9BF3034C1CCA20D80096588E /* Logging.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logging.swift; sourceTree = "<group>"; };
 		A8756F00E05A3B83B41D4315 /* Pods-Potatso.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Potatso.debug.xcconfig"; path = "Target Support Files/Pods-Potatso/Pods-Potatso.debug.xcconfig"; sourceTree = "<group>"; };
+		AC04C9BB8719FAB557689DA3 /* Pods-PotatsoLibrary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibrary.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoLibrary/Pods-PotatsoLibrary.debug.xcconfig"; sourceTree = "<group>"; };
+		B2C1C18AB73864209035C3A2 /* Pods-PotatsoLibrary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibrary.release.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoLibrary/Pods-PotatsoLibrary.release.xcconfig"; sourceTree = "<group>"; };
 		B4A7BF23B2FD5F5F35EC36C2 /* Pods-TodayWidget.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TodayWidget.debug.xcconfig"; path = "Target Support Files/Pods-TodayWidget/Pods-TodayWidget.debug.xcconfig"; sourceTree = "<group>"; };
 		B803A6951D0165EA003EA9AA /* CloudViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudViewController.swift; sourceTree = "<group>"; };
 		B803A6971D02B768003EA9AA /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = API.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -916,14 +925,19 @@
 		C6A90249DDE27A9D618C3640 /* Pods_Potatso.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Potatso.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C87F5CD87CD25ABAAD4B68EC /* Pods-Potatso.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Potatso.release.xcconfig"; path = "Target Support Files/Pods-Potatso/Pods-Potatso.release.xcconfig"; sourceTree = "<group>"; };
 		CDF9F2A6320F1AC7B894EFB9 /* Pods_PotatsoLibrary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PotatsoLibrary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D52F7FE1380E105CF105C3C6 /* Pods-PotatsoLibraryTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibraryTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests.release.xcconfig"; sourceTree = "<group>"; };
 		DBA0F5ED794D8E9E7D42AD50 /* Pods-TodayWidget.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TodayWidget.release.xcconfig"; path = "Target Support Files/Pods-TodayWidget/Pods-TodayWidget.release.xcconfig"; sourceTree = "<group>"; };
 		DD33A4FF6B8E224B4FF4A210 /* Pods_PotatsoModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PotatsoModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDFC6EB57FFA684561B4172B /* Pods-TodayWidget.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TodayWidget.release.xcconfig"; path = "Pods/Target Support Files/Pods-TodayWidget/Pods-TodayWidget.release.xcconfig"; sourceTree = "<group>"; };
 		E2550FC545818CB214BF11E7 /* Pods-PacketTunnel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketTunnel.debug.xcconfig"; path = "Target Support Files/Pods-PacketTunnel/Pods-PacketTunnel.debug.xcconfig"; sourceTree = "<group>"; };
 		E46E159320A9755C00E89AF1 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		E46E159620A9755D00E89AF1 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		E7FC33EE698C6FD2B3180AB4 /* Pods-PotatsoLibrary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibrary.release.xcconfig"; path = "Target Support Files/Pods-PotatsoLibrary/Pods-PotatsoLibrary.release.xcconfig"; sourceTree = "<group>"; };
+		EE1BDB7A1EB68686E95A5CD0 /* Pods-PacketTunnel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketTunnel.release.xcconfig"; path = "Pods/Target Support Files/Pods-PacketTunnel/Pods-PacketTunnel.release.xcconfig"; sourceTree = "<group>"; };
 		F418F761ED5A1D6D44F6B978 /* Pods_PacketTunnel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PacketTunnel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6F5D7918A5D9D189A044CBE /* Pods-Potatso.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Potatso.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Potatso/Pods-Potatso.debug.xcconfig"; sourceTree = "<group>"; };
 		F972382A1FDCA6E6CAF074AD /* Pods-PotatsoLibraryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PotatsoLibraryTests.debug.xcconfig"; path = "Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F9BCFC3CCE11B14C4F55F7B7 /* Pods-PacketTunnel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PacketTunnel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PacketTunnel/Pods-PacketTunnel.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2074,6 +2088,20 @@
 				570BF2420B2759837DB12503 /* Pods-PotatsoModel.release.xcconfig */,
 				B4A7BF23B2FD5F5F35EC36C2 /* Pods-TodayWidget.debug.xcconfig */,
 				DBA0F5ED794D8E9E7D42AD50 /* Pods-TodayWidget.release.xcconfig */,
+				4F3C1E3D4BB688B4C2CDC2CB /* Pods-PacketProcessor.debug.xcconfig */,
+				999E680EA2624D3A25669DB9 /* Pods-PacketProcessor.release.xcconfig */,
+				F9BCFC3CCE11B14C4F55F7B7 /* Pods-PacketTunnel.debug.xcconfig */,
+				EE1BDB7A1EB68686E95A5CD0 /* Pods-PacketTunnel.release.xcconfig */,
+				F6F5D7918A5D9D189A044CBE /* Pods-Potatso.debug.xcconfig */,
+				6B017F71D0C7FA3768B51ECD /* Pods-Potatso.release.xcconfig */,
+				AC04C9BB8719FAB557689DA3 /* Pods-PotatsoLibrary.debug.xcconfig */,
+				B2C1C18AB73864209035C3A2 /* Pods-PotatsoLibrary.release.xcconfig */,
+				7B3E4E3F49261810369165AA /* Pods-PotatsoLibraryTests.debug.xcconfig */,
+				D52F7FE1380E105CF105C3C6 /* Pods-PotatsoLibraryTests.release.xcconfig */,
+				49B16BEBF25009AAD0B10AB9 /* Pods-PotatsoModel.debug.xcconfig */,
+				12E0FBA5CF6FB7A6AAB293D2 /* Pods-PotatsoModel.release.xcconfig */,
+				75F006B56F76B73608CCE2EF /* Pods-TodayWidget.debug.xcconfig */,
+				DDFC6EB57FFA684561B4172B /* Pods-TodayWidget.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -2311,14 +2339,15 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0820;
-				ORGANIZATIONNAME = TouchingApp;
+				ORGANIZATIONNAME = OdinApp;
 				TargetAttributes = {
 					9B07D6AF1CB7A6A900182C1B = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = BZWH978QGB;
 					};
 					9B0CFA0A1C1C0B1A007BD7C6 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = XGKHW634KL;
+						DevelopmentTeam = BZWH978QGB;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2350,12 +2379,13 @@
 					};
 					9B0CFA1E1C1C0B1B007BD7C6 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = BZWH978QGB;
 						LastSwiftMigration = 0820;
 						TestTargetID = 9B0CFA0A1C1C0B1A007BD7C6;
 					};
 					9B8193B11CBCFEE700BE320D = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = XGKHW634KL;
+						DevelopmentTeam = BZWH978QGB;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2375,7 +2405,7 @@
 					};
 					9B8705F91C1D788F00651424 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = XGKHW634KL;
+						DevelopmentTeam = BZWH978QGB;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2569,7 +2599,7 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Potatso/Pods-Potatso-frameworks.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-Potatso/Pods-Potatso-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/Appirater/Appirater.framework",
 				"${BUILT_PRODUCTS_DIR}/Aspects/Aspects.framework",
@@ -2592,6 +2622,8 @@
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
 				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftColor/SwiftColor.framework",
+				"${BUILT_PRODUCTS_DIR}/LibYAML/LibYAML.framework",
+				"${BUILT_PRODUCTS_DIR}/YAML-Framework/YAML_Framework.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
@@ -2619,10 +2651,12 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftColor.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LibYAML.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YAML_Framework.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Potatso/Pods-Potatso-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Potatso/Pods-Potatso-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		4716CBCE2A6129C1097DCB5D /* [CP] Check Pods Manifest.lock */ = {
@@ -2721,7 +2755,7 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests-frameworks.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ICSMainFramework/ICSMainFramework.framework",
 				"${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework",
 				"${BUILT_PRODUCTS_DIR}/KissXML/KissXML.framework",
@@ -2746,7 +2780,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PotatsoLibraryTests/Pods-PotatsoLibraryTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9B8193EB1CBE37BB00BE320D /* Framework Hack */ = {
@@ -3172,6 +3206,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ANALYZER_NONNULL = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/PotatsoLibrary",
@@ -3179,7 +3214,7 @@
 				INFOPLIST_FILE = PotatsoLibraryTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.PotatsoLibraryTests;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -3192,6 +3227,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				CLANG_ANALYZER_NONNULL = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/PotatsoLibrary",
@@ -3199,7 +3235,7 @@
 				INFOPLIST_FILE = PotatsoLibraryTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.PotatsoLibraryTests;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -3308,12 +3344,34 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PotatsoLibrary",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Alamofire\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Appirater\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Aspects\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AsyncSwift\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CallbackURLKit\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Cartography\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CocoaAsyncSocket\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CocoaLumberjack\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Eureka\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICDMaterialActivityIndicatorView\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICSMainFramework\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICSPullToRefresh\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ISO8601DateFormatter\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/KissXML\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/MBProgressHUD\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/MMWormhole\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ObjectMapper\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/PSOperations\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Realm\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SwiftColor\"",
+					"\"${PODS_ROOT}/Crashlytics/iOS\"",
+					"\"${PODS_ROOT}/Fabric/iOS\"",
+					"\"${PODS_ROOT}/Reveal-iOS-SDK/Reveal-Framework-iOS-1.6.2\"",
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -3330,11 +3388,14 @@
 					"\"${PODS_ROOT}/Headers/Public/Reveal-iOS-SDK\"",
 				);
 				INFOPLIST_FILE = Potatso/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @rpath/Frameworks";
-				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)$(LOCAL_LIBRARY_DIR)/ShadowPath/ShadowPath/libopenssl/lib";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/**",
+					"$(inherited)/**",
+				);
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" -DDEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3355,12 +3416,34 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/PotatsoLibrary",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Alamofire\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Appirater\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Aspects\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AsyncSwift\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CallbackURLKit\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Cartography\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CocoaAsyncSocket\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CocoaLumberjack\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Eureka\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICDMaterialActivityIndicatorView\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICSMainFramework\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ICSPullToRefresh\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ISO8601DateFormatter\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/KissXML\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/MBProgressHUD\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/MMWormhole\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ObjectMapper\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/PSOperations\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Realm\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SwiftColor\"",
+					"\"${PODS_ROOT}/Crashlytics/iOS\"",
+					"\"${PODS_ROOT}/Fabric/iOS\"",
+					"\"${PODS_ROOT}/Reveal-iOS-SDK/Reveal-Framework-iOS-1.6.2\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"\"$(SRCROOT)/Library/ShadowPath/ShadowPath/libopenssl/include/\"",
@@ -3373,10 +3456,13 @@
 					"\"${PODS_ROOT}/Headers/Public/Reveal-iOS-SDK\"",
 				);
 				INFOPLIST_FILE = Potatso/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @rpath/Frameworks";
-				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)$(LOCAL_LIBRARY_DIR)/ShadowPath/ShadowPath/libopenssl/lib";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/**",
+					"$(inherited)/**",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3392,6 +3478,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				INFOPLIST_FILE = PotatsoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.PotatsoTests;
@@ -3406,6 +3493,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				INFOPLIST_FILE = PotatsoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.PotatsoTests;
@@ -3426,7 +3514,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -3434,7 +3522,7 @@
 				INFOPLIST_FILE = TodayWidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.todaywidget;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.todaywidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3453,7 +3541,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -3461,7 +3549,7 @@
 				INFOPLIST_FILE = TodayWidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.todaywidget;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.todaywidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3480,7 +3568,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3508,7 +3596,7 @@
 					"$(PROJECT_DIR)/PacketTunnel/Shadowsocks/libsodium-ios/lib",
 					"$(PROJECT_DIR)/PacketTunnel",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.tunnel;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.tunnel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3525,7 +3613,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XGKHW634KL;
+				DEVELOPMENT_TEAM = BZWH978QGB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3552,7 +3640,7 @@
 					"$(PROJECT_DIR)/PacketTunnel/Shadowsocks/libsodium-ios/lib",
 					"$(PROJECT_DIR)/PacketTunnel",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.tunnel;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.tunnel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3584,7 +3672,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoLibrary;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -3618,7 +3706,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoLibrary;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -3646,7 +3734,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoBase;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoBase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -3674,7 +3762,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoBase;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatso.PotatsoBase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -3707,7 +3795,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoModel;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatoso.PacketModel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -3740,7 +3828,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatso.PotatsoModel;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatoso.PacketModel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -3782,7 +3870,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatoso.PacketProcessor;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatoso.PacketProcessor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/custom\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include/ipv4\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include/ipv6\"";
@@ -3822,7 +3910,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.wasin.potatoso.PacketProcessor;
+				PRODUCT_BUNDLE_IDENTIFIER = pub.odin.potatoso.PacketProcessor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/custom\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include/ipv4\" \"$(SRCROOT)/$(TARGET_NAME)/tun2socks-iOS/lwip/src/include/ipv6\"";

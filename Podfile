@@ -19,7 +19,7 @@ def socket
 end
 
 def model
-    pod 'RealmSwift', '~> 2.10.2'
+    pod 'RealmSwift', '~> 3.11.0'
 end
 
 target "Potatso" do
@@ -36,8 +36,9 @@ target "Potatso" do
     pod 'ICSPullToRefresh', '~> 0.6'
     pod 'ISO8601DateFormatter', '~> 0.8'
     pod 'Alamofire'
-    pod 'ObjectMapper'
+    pod 'ObjectMapper', '~> 3.3.0'
     pod 'CocoaLumberjack/Swift', '~> 3.0.0'
+    pod 'Crashlytics', '~> 3.10.7'
     pod 'PSOperations'
     tunnel
     library
